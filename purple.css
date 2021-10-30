@@ -1,0 +1,30 @@
+:root {
+    --mainColor: #9d4edd;
+    --secondaryColor: #3c096c;
+
+    --borderColor: #164d56;
+
+    --mainText: #fff;
+    --secondaryText: #eeeeee;
+
+    --mainIntroColor: #10002b;
+
+    --themeDotBorder: #fff;
+
+    --previewBg : #e0aaff;
+    /* --previewBg : rgb(25,39,52,0.8); */
+    --previewShadow : #9d4edd;
+
+    --btnColor: #274c77;
+    --btnHoverColor: white;
+ 
+    --btnHoverBorderShadow: #f1ff5c;
+
+    --contbtnColor: #274c77;
+    --topbtnColor: #580aff;
+
+    --cardBg: #9381ff;
+    --cardColor: #582f0e;
+
+    --footerBg : #1c2331;
+}
