@@ -155,6 +155,11 @@ ul{
     margin: 0 auto;
 }
 
+#heading-icon{
+	padding-top: 1em;
+	padding-left: 1em;
+}
+
 
 /* Sections Settings */
 
@@ -391,11 +396,6 @@ ul{
     color: var(--btnHoverColor);
     box-shadow: 0 0.5em 0.5em -0.4em var(--btnHoverBorderShadow);
     transform: translateY(-0.25em);
-}
-
-#about-icon{
-	padding-top: 1em;
-	padding-left: 1em;
 }
 
 /* Skills settings */
