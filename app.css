@@ -394,6 +394,10 @@ ul{
 
 /* Skills settings */
 
+.skill_div{
+	padding: 2em;	
+}
+
 #skills{
 	display: flex;
 	justify-content: space-around;
