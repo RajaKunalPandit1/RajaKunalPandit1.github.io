@@ -393,6 +393,11 @@ ul{
     transform: translateY(-0.25em);
 }
 
+#about-icon{
+	padding-top: 1em;
+	padding-left: 1em;
+}
+
 /* Skills settings */
 
 #skills{
